@@ -1,0 +1,19 @@
+/* Align icon */
+#what .items .item {
+    display: flex;
+    text-align: left;
+}
+
+#what .items .item i {
+    margin-left: 1.3rem;
+    align-self: center;
+    margin-bottom: 0;
+}
+
+#contact .contact-form .btn {
+    width: 100px;
+}
+
+#contact .map div {
+    height: 400px;
+}
